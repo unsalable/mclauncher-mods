@@ -1,6 +1,7 @@
 {
   "version": "2.0.0",
-  "minecraftVersion": "1.21.1-neoforge-21.1.233",
-  "versionType": "modified",
+  "minecraftVersion": "1.21.1",
+  "customVersion": "neoforge-21.1.233",
+  "versionType": "release",
   "modsUrl": "https://github.com/unsalable/mclauncher-mods/releases/download/v1.0.0/mods.zip"
 }
